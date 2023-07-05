@@ -1,0 +1,17 @@
+https://github.com/victoryhb/streamlit-option-menu 
+
+https://plotly.com/python/builtin-colorscales/ -> untuk color plotly
+
+https://plotly.com/python/maps/ -> maps in plotly
+
+https://icons.getbootstrap.com/ -> icon menu
+
+https://docs.meiro.io/books/meiro-integrations/page/where-can-i-find-the-file-id-on-google-drive
+
+https://discuss.streamlit.io/t/google-drive-csv-file-link-to-pandas-dataframe/8057
+
+https://plotly.com/python/line-charts/
+
+
+
+
